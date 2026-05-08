@@ -1,8 +1,5 @@
-/* In css/style.css */
-body {
-  background-image: url('../images/background.jpg'); /* ../ goes back one folder */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed; /* Keeps image from scrolling */
+.body {
+    background-image: url('../images/background.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
